@@ -62,6 +62,8 @@ and more.
 
 <img width="100%" height="100%" alt="Snooker Manager POS Dashboard Dark" src="https://github.com/user-attachments/assets/44572964-55b9-428a-abb1-114d5a4f38d0" />
 
+Project Live at [pos.mitsoftsolutions.com](https://pos.mitsoftsolutions.com)
+
 ### 📚 Accuperfect (.Net, C#, MSSQL)
 > * .Net
 > * C#
@@ -70,6 +72,21 @@ and more.
 
 <img width="100%" height="100%" alt="Accu Perfect Dashboard" src="https://github.com/user-attachments/assets/a7319738-b048-4bbe-851a-b0ab48c8af4f" />
 
+## ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) Wordpress Projects
+
+_**### AMAS [amasuae.com](https://amasuae.com)**_
+
+<img width="100%" height="100%" alt="2" src="https://github.com/user-attachments/assets/1b948701-512c-4e5e-9a64-9595f3ea47ab" />
+
+_**### Coolnashes Prep [coolnashesprep.com](https://coolenashesprep.com/)**_
+
+<img width="100%" height="100%" alt="1" src="https://github.com/user-attachments/assets/def6531d-830d-430c-a19b-09cd406b795a" />
+
+_**### My tourism LLC [mytourismllc.com](https://mytourismllc.com/)**_
+
+<img width="100%" height="100%" alt="3" src="https://github.com/user-attachments/assets/5f9f4e11-1eaa-41cf-98e6-16b1a32c9695" />
+
 Check out the portfolio at [mitsoftsolutions.com](https://mitsoftsolutions.com)
 ### Thanks for Being Here! Hola!⚡✨
+
 
