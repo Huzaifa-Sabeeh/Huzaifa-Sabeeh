@@ -1,5 +1,28 @@
 # 💫 About Me:
-I'm Huzaifa, a seasoned web developer with over 6 years of experience.<br>I specialize in creating stunning websites on platforms like:<br><br>⚡WordPress<br>⚡Shopify<br>⚡Webflow<br>⚡Wix<br>⚡Squarespace<br>⚡Figma<br>Full Stack Solutions in:<br><br>✨PHP | Laravel | Blade<br>✨React(M.E.R.N) Stack <br>✨.Net C# (Latest)<br><br>Skilled in Problem Solving, Coding, AI agents, Prompt Engineering and Social Media. <br>Let’s bring your vision to life!
+I'm Huzaifa, a seasoned web developer with over 6 years of experience.
+<br>I specialize in creating Full Stack Web Apps:
+> * ✨React(M.E.R.N) Stack
+> * ✨.Net C# (Latest)
+> * ✨PHP | Laravel | Blade
+
+CMS Development:
+
+> * ⚡WordPress<br>
+> * ⚡Shopify<br>
+> * ⚡Webflow<br>
+> * ⚡Wix<br>
+> * ⚡Squarespace<br>
+
+Design Tools:
+
+> * ⚡Figma
+> * ⚡Illustrator
+> * ⚡Photoshop
+> * ⚡Canva
+> * ⚡Nano Banana
+
+Skilled in Problem Solving, Coding, AI agents, Prompt Engineering and Social Media Integrations and Automations.
+Let’s bring your vision to life!
 
 
 ## 🌐 Socials:
@@ -13,13 +36,40 @@ I'm Huzaifa, a seasoned web developer with over 6 years of experience.<br>I spec
 ![](https://nirzak-streak-stats.vercel.app/?user=Huzaifa-Sabeeh&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Sabeeh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Huzaifa-Sabeeh&theme=cobalt2&no-frame=false&no-bg=true&margin-w=4)
+***
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Recent Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Huzaifa-Sabeeh&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛍️ Electrominimal (Fullstack E-commerce Web App)
+> * React
+> * React Router
+> * Tailwind CSS
+> * Express
+> * MongoDB
+> * JWT
+> * Vite
+> * Docker
+> * NPM Packages
+> * Monorepo
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+and more.
+
+### 🎱 Snooker Manager POS (.Net, C#, Sqlite)
+> * .Net
+> * C#
+> * Sqlite
+> * Dapper
+
+<img width="100%" height="100%" alt="Snooker Manager POS Dashboard Dark" src="https://github.com/user-attachments/assets/44572964-55b9-428a-abb1-114d5a4f38d0" />
+
+### 📚 Accuperfect (.Net, C#, MSSQL)
+> * .Net
+> * C#
+> * MSSQL
+> * EFCore
+
+<img width="100%" height="100%" alt="Accu Perfect Dashboard" src="https://github.com/user-attachments/assets/a7319738-b048-4bbe-851a-b0ab48c8af4f" />
+
+Check out the portfolio at [mitsoftsolutions.com](mitsoftsolutions.com)
+### Thanks for Being Here! Hola!⚡✨
+
